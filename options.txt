@@ -1,0 +1,7 @@
+music_volume=0.495
+fx_volume=0.0925
+resolution=1024x768
+fullscreen=0
+unlocked=1048575 
+success=3 
+nb_level=22 
